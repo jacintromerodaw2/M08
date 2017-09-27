@@ -1,1 +1,4 @@
-Aquest programa compta les vocals que té la frase introduida 
+Aquest programa compta les vocals que tÃ© la frase introduida 
+
+Practica 2 : 
+aquesta es una modificacio 
